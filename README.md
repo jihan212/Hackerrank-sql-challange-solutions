@@ -1,1 +1,1 @@
-# Hackerrank-sql-challange-solutions-easy
+# Hackerrank-sql-challange-solutions
